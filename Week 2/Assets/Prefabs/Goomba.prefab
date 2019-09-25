@@ -10,9 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 5084560142635831952}
   - component: {fileID: 5084560142635831953}
-  - component: {fileID: 5084560142635831954}
   - component: {fileID: 5084560142635831955}
   - component: {fileID: 5084560142635831964}
+  - component: {fileID: 6912545754894336789}
+  - component: {fileID: 6425829629320883133}
+  - component: {fileID: 1336735177570779546}
   m_Layer: 8
   m_Name: Goomba
   m_TagString: Enemy
@@ -84,24 +86,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &5084560142635831954
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5084560142635831965}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b07be1e1196a5c42a8560457ba8b6f7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  minGroundNormalY: 0.65
-  gravityModifier: 1
-  grounded: 0
-  moveSpeed: 2
-  playerDistance: 8
-  activated: 0
 --- !u!50 &5084560142635831955
 Rigidbody2D:
   serializedVersion: 4
@@ -149,3 +133,53 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &6912545754894336789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5084560142635831965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b07be1e1196a5c42a8560457ba8b6f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minGroundNormalY: 0.65
+  gravityModifier: 1
+  moveSpeed: 2
+  playerDistance: 8
+  castDistance: 0.55
+  activated: 0
+--- !u!114 &6425829629320883133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5084560142635831965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42145c879dcfb784db4210ce9b5f82ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointValue: 100
+--- !u!95 &1336735177570779546
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5084560142635831965}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c6919787df4203741a562366833da32a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
