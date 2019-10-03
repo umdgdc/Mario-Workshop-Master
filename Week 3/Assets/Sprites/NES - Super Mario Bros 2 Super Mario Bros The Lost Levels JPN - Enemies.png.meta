@@ -1,0 +1,4147 @@
+fileFormatVersion: 2
+guid: 0ddf7d9a578f57b40af620cb6b8760f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2909537137557322209
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_0
+  - first:
+      213: 7788103309515149576
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_1
+  - first:
+      213: 5681888771118027547
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_2
+  - first:
+      213: 3267623988569227353
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_3
+  - first:
+      213: -2271283584386506825
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_4
+  - first:
+      213: -6242464451419913810
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_5
+  - first:
+      213: 8433050443821255173
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_6
+  - first:
+      213: 3212269352098816618
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_7
+  - first:
+      213: -3826721471478689269
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_8
+  - first:
+      213: -4521556226075332124
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_9
+  - first:
+      213: 2279544094668382712
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_10
+  - first:
+      213: 6201658684070237364
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_11
+  - first:
+      213: 4374274163618451998
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_12
+  - first:
+      213: -5168646427985199486
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_13
+  - first:
+      213: -7379049468582450249
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_14
+  - first:
+      213: -738624863377796948
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_15
+  - first:
+      213: 1038173703425136444
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_16
+  - first:
+      213: 7103253819875799980
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_17
+  - first:
+      213: -3440190653883476521
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_18
+  - first:
+      213: 1745456082242279066
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_19
+  - first:
+      213: -5917264351391102358
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_20
+  - first:
+      213: 7991848594183498912
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_21
+  - first:
+      213: 8659080876734373210
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_22
+  - first:
+      213: -9107599485762406547
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_23
+  - first:
+      213: -1934955529563408806
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_24
+  - first:
+      213: 8968968913274826387
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_25
+  - first:
+      213: -2905213970571458001
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_26
+  - first:
+      213: 2193385780314577942
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_27
+  - first:
+      213: 2492410046065880459
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_28
+  - first:
+      213: -3601687497890981728
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_29
+  - first:
+      213: -3955006098578602427
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_30
+  - first:
+      213: -8890945194582260174
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_31
+  - first:
+      213: 1614253433359191282
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_32
+  - first:
+      213: -762201933952071185
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_33
+  - first:
+      213: -2345706738463660340
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_34
+  - first:
+      213: 331774089332108012
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_35
+  - first:
+      213: -50378162963530186
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_36
+  - first:
+      213: -2357746320539348138
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_37
+  - first:
+      213: 4806480726837965351
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_38
+  - first:
+      213: -745807278925082243
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_39
+  - first:
+      213: 6369852213858153966
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_40
+  - first:
+      213: 8453261576458745924
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_41
+  - first:
+      213: 4840003864693807219
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_42
+  - first:
+      213: 6612105190569415907
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_43
+  - first:
+      213: -2951287489376761843
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_44
+  - first:
+      213: -9106141538029034544
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_45
+  - first:
+      213: -8043182553276604099
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_46
+  - first:
+      213: -8791900156097152196
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_47
+  - first:
+      213: 5074055992312599431
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_48
+  - first:
+      213: -4815681981339425561
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_49
+  - first:
+      213: -6810868611563287084
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_50
+  - first:
+      213: -6390205989357312665
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_51
+  - first:
+      213: 2329109042784205573
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_52
+  - first:
+      213: 7129888603972277545
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_53
+  - first:
+      213: -7735678899568263577
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_54
+  - first:
+      213: 6339032778287246054
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_55
+  - first:
+      213: -833954047710777936
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_56
+  - first:
+      213: 7944000655739438836
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_57
+  - first:
+      213: 6344257672646248903
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_58
+  - first:
+      213: -601231921939818027
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_59
+  - first:
+      213: -2602255324261873185
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_60
+  - first:
+      213: -7356389284113612296
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_61
+  - first:
+      213: 6975078664734538891
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_62
+  - first:
+      213: 7460735445851709884
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_63
+  - first:
+      213: -2611924191023585879
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_64
+  - first:
+      213: 7020175066238286734
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_65
+  - first:
+      213: 3774686768711472469
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_66
+  - first:
+      213: 6387624986633000646
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_67
+  - first:
+      213: -8230805175508569402
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_68
+  - first:
+      213: 783661170806360499
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_69
+  - first:
+      213: 4334145721460583550
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_70
+  - first:
+      213: -6189880396020030113
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_71
+  - first:
+      213: -8690675276927201121
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_72
+  - first:
+      213: 1572829654888541436
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_73
+  - first:
+      213: 7313331391727428749
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_74
+  - first:
+      213: 6812178081667680239
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_75
+  - first:
+      213: -9509892934271816
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_76
+  - first:
+      213: -3394336080446191782
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_77
+  - first:
+      213: 1356528652492569172
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_78
+  - first:
+      213: 2136383493442253195
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_79
+  - first:
+      213: 3094801255801741724
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_80
+  - first:
+      213: -436991859647550559
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_81
+  - first:
+      213: -4288748872766316723
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_82
+  - first:
+      213: 4544113363963410227
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_83
+  - first:
+      213: 2291933320389973011
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_84
+  - first:
+      213: -424334384373827930
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_85
+  - first:
+      213: -7458348193617172168
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_86
+  - first:
+      213: 7335800763776897899
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_87
+  - first:
+      213: -1815033123538415473
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_88
+  - first:
+      213: 1414844137103074552
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_89
+  - first:
+      213: 9177525798865443482
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_90
+  - first:
+      213: -2883814376798940342
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_91
+  - first:
+      213: 3444501777041241824
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_92
+  - first:
+      213: -7147590644099049317
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_93
+  - first:
+      213: 8854905928095097181
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_94
+  - first:
+      213: 8437007824089533529
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_95
+  - first:
+      213: 6786799904517015005
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_96
+  - first:
+      213: -5724536206808396106
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_97
+  - first:
+      213: -7169030379549265199
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_98
+  - first:
+      213: 7220744249513999206
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_99
+  - first:
+      213: -8020683161867284875
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_100
+  - first:
+      213: 2173373695000043545
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_101
+  - first:
+      213: -4765636112046069938
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_102
+  - first:
+      213: 836827731428511792
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_103
+  - first:
+      213: 1492507589607091734
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_104
+  - first:
+      213: 3030128969888864374
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_105
+  - first:
+      213: 2735715452216085059
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_106
+  - first:
+      213: 5509480753446072438
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_107
+  - first:
+      213: 3764211033642694533
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_108
+  - first:
+      213: 8488438030062258961
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_109
+  - first:
+      213: 6943763051164883692
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_110
+  - first:
+      213: 8277898803691588172
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_111
+  - first:
+      213: 7518532454522722697
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_112
+  - first:
+      213: -6568580485996052750
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_113
+  - first:
+      213: 8767671047467669662
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_114
+  - first:
+      213: 4497924979999143123
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_115
+  - first:
+      213: 7243895630978944466
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_116
+  - first:
+      213: -3942291080628424995
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_117
+  - first:
+      213: -539521981966877262
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_118
+  - first:
+      213: 2771361586026912926
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_119
+  - first:
+      213: -8032941829811169388
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_120
+  - first:
+      213: -7713486353433607604
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_121
+  - first:
+      213: -6117168031698440082
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_122
+  - first:
+      213: 2435317496878081542
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_123
+  - first:
+      213: -1528236591371694331
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_124
+  - first:
+      213: -6576314871817838095
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_125
+  - first:
+      213: 6327644812732575154
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_126
+  - first:
+      213: -9177447311641294392
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_127
+  - first:
+      213: 1308183083900617527
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_128
+  - first:
+      213: -7663358626488047692
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_129
+  - first:
+      213: 199181531729528957
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_130
+  - first:
+      213: 8892760308450816240
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_131
+  - first:
+      213: 6819362982116672517
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_132
+  - first:
+      213: -3297809668371038359
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_133
+  - first:
+      213: -4553963088439304579
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_134
+  - first:
+      213: -6203357090032347414
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_135
+  - first:
+      213: -1654020817635325464
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_136
+  - first:
+      213: 7476727144850445186
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_137
+  - first:
+      213: 4742327955591834296
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_138
+  - first:
+      213: -8571934921249729310
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_139
+  - first:
+      213: 7766956438161112371
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_140
+  - first:
+      213: -8739306641817378649
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_141
+  - first:
+      213: 4082204116877959640
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_142
+  - first:
+      213: 8502776853424925038
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_143
+  - first:
+      213: 5766004768662273022
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_144
+  - first:
+      213: 3221308308921818383
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_145
+  - first:
+      213: 4748935017960449345
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_146
+  - first:
+      213: -8113077393705039419
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_147
+  - first:
+      213: 7815271069857336001
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_148
+  - first:
+      213: 1743605932539456922
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_149
+  - first:
+      213: 7484828602575076327
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_150
+  - first:
+      213: 4481529881454291665
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_151
+  - first:
+      213: 4798854702334311700
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_152
+  - first:
+      213: -7940557274856213546
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_153
+  - first:
+      213: -8917368636146753191
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_154
+  - first:
+      213: -5891844625559944181
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_155
+  - first:
+      213: 5727706773265762768
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_156
+  - first:
+      213: 373673678777426776
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_157
+  - first:
+      213: -5523095812596208944
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_158
+  - first:
+      213: -6152718966028504306
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_159
+  - first:
+      213: -508057200187192956
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_160
+  - first:
+      213: -8050890469979286082
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_161
+  - first:
+      213: 5195714365275824794
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_162
+  - first:
+      213: -5408503608131787439
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_163
+  - first:
+      213: -9010228193452993369
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_164
+  - first:
+      213: 1492100198888422000
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_165
+  - first:
+      213: 2720636874852246961
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_166
+  - first:
+      213: 4129000849634020187
+    second: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_167
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c26122082ece043a7704d732ed3dff
+      internalID: 2909537137557322209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880aa0de025e0f143a2f9b6e0aca79f0
+      internalID: 7788103309515149576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289bdf5eac0578a4580e0003c93f08db
+      internalID: 5681888771118027547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e280d430391c444482c43ef5c946e33
+      internalID: 3267623988569227353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f57ac29a5b034c4aa20a903f5377f5c
+      internalID: -2271283584386506825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a4730bce211894db51e466c816fa5d
+      internalID: -6242464451419913810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e04ae5995574174bb6802f185a2a5e7
+      internalID: 8433050443821255173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5641c0fee8a544083ed759b57ad3cf
+      internalID: 3212269352098816618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980362add53cb21488f63240fdcd8a81
+      internalID: -3826721471478689269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d754208f859f846b593af68395ad17
+      internalID: -4521556226075332124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd3e2f2651ff5488a434b4168e9cd3
+      internalID: 2279544094668382712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc29cee5dc57454689568f13ec0b920
+      internalID: 6201658684070237364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651eae1a2bb999d4e81dbdcd08f340ba
+      internalID: 4374274163618451998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb6fc74c6c03b4fb8a96923e45d4ae
+      internalID: -5168646427985199486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c5ef1a470964448af75c94b0cddf4d
+      internalID: -7379049468582450249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e759843a75b742adf324b23aeaaf0
+      internalID: -738624863377796948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3032eb31b39f4e4f9803b8405df8f19
+      internalID: 1038173703425136444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2044ee1271fc42bf995c54e50239c
+      internalID: 7103253819875799980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44061a9a22ecafb44996f1a703eefbe7
+      internalID: -3440190653883476521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84fef63b31fb1438ddc546ab25e7ac
+      internalID: 1745456082242279066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad040e0af792c9b49b50c313748085dd
+      internalID: -5917264351391102358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e558458ddb3654dbdaf9e25b3a17e3
+      internalID: 7991848594183498912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daceed8ed170ef84f8438e5b33085ab9
+      internalID: 8659080876734373210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9581016d66a2444ab7c5a223004ab4
+      internalID: -9107599485762406547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb71ba6ca9fba4e801e174eeff7997
+      internalID: -1934955529563408806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe2de2235cbc94cab0cc9d878543ae
+      internalID: 8968968913274826387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616e17227a837f8428ec3a4da8faf30e
+      internalID: -2905213970571458001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2cee2daf3051a4581907c11dd9e4c8
+      internalID: 2193385780314577942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84927c89d4094594493a5d3117b54da0
+      internalID: 2492410046065880459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b43f6799ee38a42bb8b9683b117ce3
+      internalID: -3601687497890981728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea277d8446de9943886eba9d4f0c208
+      internalID: -3955006098578602427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b2c56f58406244b1db5eb7b235621
+      internalID: -8890945194582260174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910dae253cdb0f46a8681a2fafffdb8
+      internalID: 1614253433359191282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af37848239d6c6547be6c5b7935e6292
+      internalID: -762201933952071185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed07a9b06058e44d9a31fee40af9f8a
+      internalID: -2345706738463660340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71ed6be76638543ad09bcb84d59eb1
+      internalID: 331774089332108012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebcbe0abd1714a4bb8802061834af02
+      internalID: -50378162963530186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9fe4093fd3d5479746431145483cd
+      internalID: -2357746320539348138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57abb02a53e149d4cb28f5b314ae71f4
+      internalID: 4806480726837965351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2384dd52a71f324aa22f5680ebd1338
+      internalID: -745807278925082243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0121ce7a0a48469eeb2ff562e8f75
+      internalID: 6369852213858153966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abe132ab9a08849b77e64404b17e26
+      internalID: 8453261576458745924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57571a897b61d040ab498026163d46b
+      internalID: 4840003864693807219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe8998109f1ca438199c37b979850b
+      internalID: 6612105190569415907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eba98e25805544b845df3fb0946f17
+      internalID: -2951287489376761843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc73c124ee8cc44aa05178f6cf17d08
+      internalID: -9106141538029034544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7568414f989a1e46a8f50f1c89437ce
+      internalID: -8043182553276604099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3cf3e8f637964584a4897117e48dc
+      internalID: -8791900156097152196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bf875cab69a8a45b52a8b72c06b212
+      internalID: 5074055992312599431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58434d05e37e079458197cb2abc7486c
+      internalID: -4815681981339425561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df5119740730204da69d26629e7e346
+      internalID: -6810868611563287084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb21377543255d843bebeefef9de1087
+      internalID: -6390205989357312665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f0cc53a567044bad6807356fca85b
+      internalID: 2329109042784205573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ba90ebdfc67a649b95d3bead642719
+      internalID: 7129888603972277545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28422185bca065e458a8b31acaf3a733
+      internalID: -7735678899568263577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71cfddf49c8ba04fb19f98df6caeb28
+      internalID: 6339032778287246054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073b3a399e22a14f94ba76b531bf51f
+      internalID: -833954047710777936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd64536fadb7942aa8c4c5ab4547f6
+      internalID: 7944000655739438836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c468a5118e9342980c19ed66ac44f
+      internalID: 6344257672646248903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4c5dcaa8292df438bf906bc9197722
+      internalID: -601231921939818027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c157f0673c3d8a4ea9ff85044e82c78
+      internalID: -2602255324261873185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ddc857c81cc141999da9eb4d6b3f8
+      internalID: -7356389284113612296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45729a0f4af3b3468b3dbf0d7cd956d
+      internalID: 6975078664734538891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d224188bda3ac438ee7994e2929e03
+      internalID: 7460735445851709884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870c433affc7bc4aa5fe0fcd69ed42d
+      internalID: -2611924191023585879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d562d2ec61a35f4197cbe05d8f701d1
+      internalID: 7020175066238286734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347e0f1fa81d8443af29ffc895ef488
+      internalID: 3774686768711472469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84a3a289b6263f43b3d140c29bd26be
+      internalID: 6387624986633000646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2210819952304ce4880ececbd65f442d
+      internalID: -8230805175508569402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0389b10f7fdc46ad971a1660f5c8d
+      internalID: 783661170806360499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1039f8a75bbb4f86c9a473fbfd45e
+      internalID: 4334145721460583550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238d16bb00e6f9a47bc054279b2a0c69
+      internalID: -6189880396020030113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7465392726b9146970f25e50121069
+      internalID: -8690675276927201121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1490d34c818cb7c4b82a6f22a71090f5
+      internalID: 1572829654888541436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5f928efcd65b4dabc906a92395a85
+      internalID: 7313331391727428749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078072f48a6c6444f9f694236c2e33ed
+      internalID: 6812178081667680239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ce069a8fc861348818f13e978653fc
+      internalID: -9509892934271816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb575b3b99ed14b469928f399058c64b
+      internalID: -3394336080446191782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c545180af9862b8499a57cd6b51736e4
+      internalID: 1356528652492569172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6431d4d6835dad4a86e71424f4fe64f
+      internalID: 2136383493442253195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98828b5a4538a9e4db7c2416746d5a8c
+      internalID: 3094801255801741724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe9f318e30c394f991b1bf994ca8c5
+      internalID: -436991859647550559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab258bb20bf9504c8c591d40f7f8add
+      internalID: -4288748872766316723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d96f1da7d191f4387698086c8b6083
+      internalID: 4544113363963410227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3902fa4411f648b1c716835be40c2
+      internalID: 2291933320389973011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e698af535d550374e9a097a26b6dc029
+      internalID: -424334384373827930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd005b89bc7f61468bd93e4322cff08
+      internalID: -7458348193617172168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f228f2bfb2915147a2213a0cfe68c97
+      internalID: 7335800763776897899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7fe4e261880bb42a937bd713ef1376
+      internalID: -1815033123538415473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573672ee7779b434986f568f376c9e3a
+      internalID: 1414844137103074552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740cd03aa44ee940a5d713e01980dca
+      internalID: 9177525798865443482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13387675385694cbce9d6c1447e42f
+      internalID: -2883814376798940342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e079f6e62274d241b5ec4fd9c1cbb7d
+      internalID: 3444501777041241824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bfa89bb5ff59043b4e837bc5b63c27
+      internalID: -7147590644099049317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b4852f9380474799f0a8e50aebc3e
+      internalID: 8854905928095097181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda1b8365a307245a274e81b9e02042
+      internalID: 8437007824089533529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90c0bd569dfd54fa703920ba4abb94
+      internalID: 6786799904517015005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edce130822661654dbc6379d499a28bf
+      internalID: -5724536206808396106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed37400e5cab3459601e2e7349dea4
+      internalID: -7169030379549265199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c706c41b45b86b439a94b36882b06d5
+      internalID: 7220744249513999206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f626e94a75be5b142b76c2742ee56adb
+      internalID: -8020683161867284875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d42ff58056f62418020000e744575b
+      internalID: 2173373695000043545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d15a4ddb03b434387cd98fa2e5de13
+      internalID: -4765636112046069938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd5c1c4629fe9c4995d7402ea6ab9a8
+      internalID: 836827731428511792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05480d9ace4663a4582709e098aa9322
+      internalID: 1492507589607091734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b186f748c329de43bf41f77f59cdea7
+      internalID: 3030128969888864374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0b5547ca6c01449926753bf719610
+      internalID: 2735715452216085059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f965374058bf1c741841dffa65c18003
+      internalID: 5509480753446072438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2cf04ceff73d4cbf3f6cb8cd0f20e
+      internalID: 3764211033642694533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f414e8c3eae6634dbe699fd147a8c69
+      internalID: 8488438030062258961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fecbaaac15eaa4ab4f15da0f0a6e1d
+      internalID: 6943763051164883692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708b5dc9a8f16e4dba4a35608027d09
+      internalID: 8277898803691588172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a7b37d92d5404585a33f89a4cd542
+      internalID: 7518532454522722697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdab96e9f66ccd4b8b97172272f6ef6
+      internalID: -6568580485996052750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120867dd746891e4085b4db34e7398fc
+      internalID: 8767671047467669662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c41d33861abb438b98bb6b5bada90
+      internalID: 4497924979999143123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d050ac1859afcd498d6513f4c5df56a
+      internalID: 7243895630978944466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dffcfa50c08f34f98be00b38ef095b
+      internalID: -3942291080628424995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2ff1d742242a429905516322e4a37
+      internalID: -539521981966877262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf92f2dd05b5e54486812dce106bf95
+      internalID: 2771361586026912926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8418ce4769f1e944d9180637b8ff843d
+      internalID: -8032941829811169388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58bab7355725674f868d2a2405bda32
+      internalID: -7713486353433607604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25004e388d10ab440ab2e777b22191f9
+      internalID: -6117168031698440082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f20f534928165478f2611af3a83073
+      internalID: 2435317496878081542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c516852a0f1d94181c3b4480136027
+      internalID: -1528236591371694331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee39beab2a4724482e81eb405580da
+      internalID: -6576314871817838095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc18255e39bc1f40b885a00a38b5dd5
+      internalID: 6327644812732575154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795a39919fec4241a2879e9fc549687
+      internalID: -9177447311641294392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a4901b56d3724c931ad9bb332fdbe
+      internalID: 1308183083900617527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0065d0872c414ab47fcd5010165f5
+      internalID: -7663358626488047692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162b006b52a40240a0d1e6f098e8a9a
+      internalID: 199181531729528957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159c8f1124446045ac6cf2b6edd25fa
+      internalID: 8892760308450816240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0bf9a214920284c911e47e97c4c73f
+      internalID: 6819362982116672517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4a65a762769c439751ed72ac6025c
+      internalID: -3297809668371038359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06006556b777311458e0807dee97a24e
+      internalID: -4553963088439304579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a4d5309b9c054ea9cbcb2aeac1749
+      internalID: -6203357090032347414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683428d12664ba245a07dfad9d6f4612
+      internalID: -1654020817635325464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e746c90bfcca7c49a3707cfa392e161
+      internalID: 7476727144850445186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab18ee0c67e5e428de49066561f25c
+      internalID: 4742327955591834296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1028f05063d243544bad3266d138a06d
+      internalID: -8571934921249729310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc1ea288dd1aa244a90518715f84095
+      internalID: 7766956438161112371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5dd6c9bb9562428873b30db325250
+      internalID: -8739306641817378649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e67ed8c4a2dc5b4c82fdbe6822282ee
+      internalID: 4082204116877959640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb149f27378569d4c82694cd4dfa0f60
+      internalID: 8502776853424925038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a836366b9835de4b9c0ca0897bcae85
+      internalID: 5766004768662273022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1b2757b2394ac4f8cec3d490c1fae3
+      internalID: 3221308308921818383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f0cd862fdb9a541a65975440735cd1
+      internalID: 4748935017960449345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc195965d151c0e41b1b3127d6d1d179
+      internalID: -8113077393705039419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe465f03b69fb9408c7eac9413ffed7
+      internalID: 7815271069857336001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9a2065636b0c43b5a570af680e0b3
+      internalID: 1743605932539456922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e1bd79363bb9b41a25c6273760a3f4
+      internalID: 7484828602575076327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a726097126d6f40b237c51c420eeb6
+      internalID: 4481529881454291665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6de31564fad364dbb8a323391ca9c2
+      internalID: 4798854702334311700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8d6f0f508ee54a89ef1743832941f
+      internalID: -7940557274856213546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d2e52052ad61e45a25de91d5164c85
+      internalID: -8917368636146753191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6681dec62f2019843823922d141b0626
+      internalID: -5891844625559944181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33377af2cff3a5a4fb8fa0528c55b758
+      internalID: 5727706773265762768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22b5c7bc1ff654e82c06269e9939c5
+      internalID: 373673678777426776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e95a6f27fa9b84ea905cbb7459d88f
+      internalID: -5523095812596208944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4cbf1c0950d5946b8ee1bc8f420034
+      internalID: -6152718966028504306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a79014b8df0054cbca307d223acc17
+      internalID: -508057200187192956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20f8dfcf9a9304f915e6af03674fbd
+      internalID: -8050890469979286082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ba03fa969fe446881160563e3a4ea
+      internalID: 5195714365275824794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4403609f0d604ba08124f1702581f
+      internalID: -5408503608131787439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf268b0a3a874c4083c36891699d674
+      internalID: -9010228193452993369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab70d9dcaaa0a84a98c879aec3ccf19
+      internalID: 1492100198888422000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922beeefb0145c14a8a4ed3476b955f9
+      internalID: 2720636874852246961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 2 Super Mario Bros The Lost Levels JPN - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce817c3901c5ab49a38ec24192efece
+      internalID: 4129000849634020187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
